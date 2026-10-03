@@ -1,2 +1,3 @@
 # parsify-clone
-cloning the parsify calculator app in Rust
+
+should be a nice project for practicing rust i hope?
