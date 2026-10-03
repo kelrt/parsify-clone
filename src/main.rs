@@ -1,6 +1,6 @@
 // TODO: UI changes to be a nicer experience
 // TODO: exit + enter used to quit the application?
-//
+// TODO: copy result on click
 
 mod eval;
 
